@@ -32,7 +32,7 @@
     "file-loader": "^0.9.0",
     "glob": "^7.0.0",
     "isparta-instrumenter-loader": "^1.0.0",
-    "karma": "^1.0.0",
+    "karma": "^6.4.1",
     "karma-phantomjs-launcher": "^1.0.0",
     "karma-sourcemap-loader": "^0.3.5",
     "karma-webpack": "^1.7.0",
@@ -53,6 +53,6 @@
     "normalize.css": "^4.0.0",
     "react": "^15.0.0",
     "react-dom": "^15.0.0",
-    "socket.io-client": "^1.4.8"
+    "socket.io-client": "^4.5.3"
   }
 }
